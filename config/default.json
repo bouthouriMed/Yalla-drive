@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://bouthouriMed:123456789Aa@cluster0.swp2z.mongodb.net/carPooling?retryWrites=true&w=majority",
+    "jwtSecret" : "jwtsecret"
+}
