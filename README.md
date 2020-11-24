@@ -9,4 +9,4 @@ It also has an admin inetrface("email": "admin@gmail.com", "password": "123456")
 This application was created with React and Redux using a UI template with Tailwind css which is provided in the reôsitry under the name of "Uplabs-template" along with some Material UI components, NodeJs with Express and MongoDB.
 
 It's only 2 weeks project, so it has important limitations, like the narrow selected inputs for the source and destination of the ride which were intended for the expected filter search feature that i wasn't able to add due to my other engagments.
-It also uses Gravatar for user's pictures, so if the user is registered with an email that doesn't use Gravatar, the user's avatar will be empty. I will later add the ability for users to upload their pictures using Multer.
+It also uses Gravatar for user's pictures, so if the user is registered with an email that doesn't use Gravatar, the user's avatar will be empty.
