@@ -1,6 +1,6 @@
 # Yalla-drive
 
-Yalla Drive a platform for carpooling, my final project for my 4 months fullstack Javascript developer program at GoMyCode.
+Yalla Drive a platform for carpooling. 
 
 It a platform that after signing up using JWT authentification, gives you the ability to create a profile then searching for rides offered by other users and connect with each other with features like sendong and recieving, accepting,declining or deleting requests, liking, posting, deleting rides, recieving notifications and editing profile.
 
